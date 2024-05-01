@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowJs": true,
+    "strictNullChecks": true
+  },
+  "include": ["*.cjs", ".*.cjs"]
+}
