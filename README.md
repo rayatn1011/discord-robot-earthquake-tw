@@ -1,5 +1,7 @@
 # discord-robot-earthquake-tw
 
-_Discord Bot - Taiwan Earthquake Alerts_
+## Description
 
-This project is currently under development, has not yes been officially released.
+Discord Bot - Taiwan Earthquake Alerts
+
+_This project is currently under development, has not yes been officially released._
